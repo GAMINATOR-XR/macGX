@@ -11,7 +11,7 @@ document.addEventListener("mousemove", function (event) {
 
 //**Above is the universal code for every MacWeb JavaScript file**//
 
-const google = ["Google", "/macvg/media/google.png"];
+const google = ["Google", "/macgx/media/google.png"];
 const canva = ["Home - Canva", "/macvg/media/canva.png"];
 const clever = ["Clever | Portal", "/macvg/media/clever.png"];
 const schoology = ["Home | Schoology", "/macvg/media/schoology.png"];
